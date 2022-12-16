@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/tiny-programmers-big-laptop-writing-script-coders-app-developers-with-computers-flat-vector-illustration-programming-engineering-software-development-concept-banner-landing-web-page_74855-25360.jpg?w=1800&t=st=1671164532~exp=1671165132~hmac=4921e3f06dd4b374d397dacd76d4bb7af5beb82d785c6146f8d002f210cd232e)]()
+[![MasterHead](https://as1.ftcdn.net/v2/jpg/02/21/97/86/1000_F_221978639_EyPBA9tuscYhW6rhaO5EiVzdG8hvQSgV.jpg)]()
 
 <h1 align="center">Hi 👋, I'm Mariel</h1>
 - 🔭 I’m currently working on booking type app, modeled after Resy and Opentable [Din Din](https://din-din.onrender.com/)
