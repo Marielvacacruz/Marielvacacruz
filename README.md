@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Marielvaca@gmail.com**
 
-- ⚡ Fun fact **I've been cast for a commercial and was an extra as a nurse for a tv show!**
+<!-- - ⚡ Fun fact **I've been cast for a commercial and was an extra as a nurse for a tv show!** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
